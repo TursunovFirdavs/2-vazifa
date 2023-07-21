@@ -24,10 +24,12 @@ $ff: 'Poppins', sans-serif;
 }
 
 header {
-    background-image: url(/2-vazifa/);
+    background-image: url(/photo/header.svg);
     max-width: 1918px;
     background-position: center;
     background-repeat: no-repeat;
+    border-bottom-right-radius: 100px;
+    border-bottom-left-radius: 100px;
 }
 
 nav {
